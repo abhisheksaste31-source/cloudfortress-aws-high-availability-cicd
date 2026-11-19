@@ -1,20 +1,19 @@
 # ☁️ CloudFortress -- Highly Available AWS Three-Tier Architecture with Automated CI/CD
 
-```{=html}
+{=html}
 <p align="center">
-```
-`<strong>`{=html}Building a Secure, Scalable, and Production-Grade AWS
-Infrastructure`</strong>`{=html}
-```{=html}
+<strong> {=html}Building a Secure, Scalable, and Production-Grade AWS
+Infrastructure </strong> {=html}
+   {=html}
 </p>
-```
-```{=html}
+
+   {=html}
 <p align="center">
-```
-`<img src="architucture/Architecture.png" alt="CloudFortress AWS Architecture Diagram" width="100%">`{=html}
-```{=html}
+
+<img src="architucture/Architecture.png" alt="CloudFortress AWS Architecture Diagram" width="100%">{=html}
+   {=html}
 </p>
-```
+
 ## 📌 Project Overview
 
 **CloudFortress** is an enterprise-style AWS cloud infrastructure
@@ -274,11 +273,11 @@ Your support and feedback are appreciated!
 
 ------------------------------------------------------------------------
 
-```{=html}
+   {=html}
 <p align="center">
-```
-`<strong>`{=html}CloudFortress -- Building Resilient Infrastructure.
-Automating Cloud Deployments. 🚀`</strong>`{=html}
-```{=html}
+
+<strong> {=html}CloudFortress -- Building Resilient Infrastructure.
+Automating Cloud Deployments. 🚀 </strong> {=html}
+   {=html}
 </p>
 ```
